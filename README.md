@@ -1,1 +1,1 @@
-# gerenciador_de_senhas
+gerenciador de senhas com a maior segurança e codificação de senhas
